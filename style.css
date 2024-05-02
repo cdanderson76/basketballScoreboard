@@ -42,12 +42,12 @@ img {
 
 #scoreboard {
   justify-content: space-around;
-  width: 500px;
+  width: 700px;
   opacity: 0.8;
   border: 2px solid #DCB645;
   border-radius: 10px;
   margin: 20px 0 0 0;
-  padding: 0 325px 0 325px;
+  padding: 0 325px 0 63px;
 }
 
 #score-table {
